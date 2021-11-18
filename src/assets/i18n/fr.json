@@ -1,0 +1,9 @@
+{
+    "home":{
+        "title": "Page d'accueil",
+        "welcome_text": "Tu te débrouilles bien."
+    },
+    "settings":{
+        "title": "Page des paramètres"
+    }
+}

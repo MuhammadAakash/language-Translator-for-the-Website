@@ -1,0 +1,9 @@
+{
+    "home":{
+        "title": "Pagina de inicio",
+        "welcome_text": "Lo estás haciendo genial."
+    },
+    "settings":{
+        "title": "Página de configuración"
+    }
+}
